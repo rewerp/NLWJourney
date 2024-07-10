@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.exception\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\exceptionsbase\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\exceptionsbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.exception\\exceptionsbase\\journeyexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9941BF-6FB7-4CF6-9C74-FFE199F96A77}|src\\Journey.Exception\\Journey.Exception.csproj|solutionrelative:src\\journey.exception\\exceptionsbase\\journeyexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\devrepo\\csharp\\nlwjourney\\journey\\src\\journey.application\\usecases\\trips\\delete\\deletetripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\delete\\deletetripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JourneyDbContext.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
-              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T14:20:16.702Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -104,115 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
-              "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:30:04.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JourneyExceptions.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyExceptions.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\JourneyExceptions.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\JourneyExceptions.cs",
-              "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\JourneyExceptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:26:35.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionFilter.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:24:04.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseErrorsJson.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeToolTip": "src\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:22:15.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "src\\Journey.Exception\\ExceptionsBase\\ErrorOnValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:17:27.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterTripValidator.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T00:54:17.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterTripUseCase.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T00:53:37.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteTripByIdUseCase.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T00:48:15.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TripsController.cs",
-              "DocumentMoniker": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ToolTip": "C:\\DevRepo\\CSharp\\NLWJourney\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T00:46:52.061Z"
             }
           ]
         }

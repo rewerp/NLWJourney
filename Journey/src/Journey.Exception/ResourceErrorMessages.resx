@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ACTIVITY_NOT_FOUND" xml:space="preserve">
+    <value>Não existem dados para atividade com esse "ID"</value>
+  </data>
+  <data name="DATE_NOT_WITHIN_TRAVEL_PERIOD" xml:space="preserve">
+    <value>A Data da atividade deve estar dentro do período da viagem</value>
+  </data>
   <data name="END_DATE_TRIP_MUST_BE_LATER_START_DATE" xml:space="preserve">
     <value>A Data de Fim da viagem deve ser maior ou igual a Data de Inicio</value>
   </data>
@@ -130,6 +136,6 @@
     <value>A Data de Inicio da viagem deve ser maior ou igual a Data atual</value>
   </data>
   <data name="TRIP_NOT_FOUND" xml:space="preserve">
-    <value>Não existem dados para a viagem com esse id</value>
+    <value>Não existem dados para viagem com esse "ID"</value>
   </data>
 </root>

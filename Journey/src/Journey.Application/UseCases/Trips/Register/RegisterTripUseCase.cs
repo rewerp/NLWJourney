@@ -41,7 +41,7 @@ namespace Journey.Application.UseCases.Trips.Register
 
       var result = validator.Validate(request);
 
-      if (result.IsValid == false) {
+      if (!result.IsValid) {
         var errorMessages = result.Errors.Select(error => error.ErrorMessage).ToList();
 
         throw new ErrorOnValidationException(errorMessages);

@@ -61,6 +61,24 @@ namespace Journey.Exception {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Não existem dados para atividade com esse &quot;ID&quot;.
+        /// </summary>
+        public static string ACTIVITY_NOT_FOUND {
+            get {
+                return ResourceManager.GetString("ACTIVITY_NOT_FOUND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to A Data da atividade deve estar dentro do período da viagem.
+        /// </summary>
+        public static string DATE_NOT_WITHIN_TRAVEL_PERIOD {
+            get {
+                return ResourceManager.GetString("DATE_NOT_WITHIN_TRAVEL_PERIOD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to A Data de Fim da viagem deve ser maior ou igual a Data de Inicio.
         /// </summary>
         public static string END_DATE_TRIP_MUST_BE_LATER_START_DATE {
@@ -97,7 +115,7 @@ namespace Journey.Exception {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Não existem dados para a viagem com esse id.
+        ///   Looks up a localized string similar to Não existem dados para viagem com esse &quot;ID&quot;.
         /// </summary>
         public static string TRIP_NOT_FOUND {
             get {
